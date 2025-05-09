@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @snapshot-site
 
-![Snapshot Site Banner](https://cdn.snapshot-site.fr/images/logo.avif)
+![Snapshot Site Banner](https://cdn.snapshot-site.fr/images/logo.png)
 
 🚀 **Snapshot Site** is a fast, scalable API that lets you take high-resolution, full-page screenshots of any website — programmatically.
 
